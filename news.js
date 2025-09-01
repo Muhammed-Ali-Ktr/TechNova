@@ -781,6 +781,8 @@
         emoji: "🧠",
         date: "17 Haziran 2025",
         readCount: 0
-    },
-    {                   }
+                 }
         ];
+
+        let filteredNews = [...newsData];
+        let currentCategory = 'all';
