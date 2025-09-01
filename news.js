@@ -1,4 +1,6 @@
-
+        // News data
+        const newsData = [
+            {
         id: 1,
         title: "ChatGPT-5 Geliyor: Yapay Zeka Devriminin Yeni Aşaması",
         excerpt: "OpenAI'nin yeni nesil yapay zeka modeli ChatGPT-5, çok daha gelişmiş reasoning yetenekleri ve multimodal özellikler sunacak. Beta testler başladı...",
