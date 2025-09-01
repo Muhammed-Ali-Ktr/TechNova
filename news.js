@@ -782,10 +782,5 @@
         date: "17 Haziran 2025",
         readCount: 0
     },
-    {
-        id: 78,
-        title: "Robotic Caregivers: Eldercare Robots Emotional Support Providing",
-        excerpt: "AI-powered eldercare robots, physical assistance emotional companionship ile aging populations care needs için comprehensive solutions offering...",
-        fullContent: "Robotic caregiving elderly care solutions aging populations comprehensive support für providing assistance. Emotional intelligence social interaction capabilities lonely seniors companionship zur offering comfort.// Teknoloji odaklı haber sitesi için 100 içerik
-const newsData = [
-    {
+    {                   }
+        ];
